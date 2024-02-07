@@ -23,7 +23,7 @@
   <img align="center" alt="Rafa-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
  <img align="center" alt="Rafa-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">
  <img align="center" alt="Rafa-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg">
- <img align="center" alt="Rafa-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">  <img align="right" alt="Rafa-HTML" height="140" width="230" src="https://cdn.discordapp.com/attachments/1143586832123187253/1204621815540875295/lofi_generator.png?ex=65d5667d&is=65c2f17d&hm=b3dbaad77894237d104f29e79523c4c824f3b5f73ddf0d6d4f4ea84d6653751d&">
+ <img align="center" alt="Rafa-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">  <img align="right" alt="Rafa-HTML" height="210" width="360" src="https://cdn.discordapp.com/attachments/1143586832123187253/1204621815540875295/lofi_generator.png?ex=65d5667d&is=65c2f17d&hm=b3dbaad77894237d104f29e79523c4c824f3b5f73ddf0d6d4f4ea84d6653751d&">
 </div>
 
 ##      
