@@ -71,7 +71,7 @@
   <a href="https://medium.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="test" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/test" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="test" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="test" height="30" width="40" /></a>
-  <a href="https://discord.gg/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="test" height="30" width="40" /></a>
+  <a href="https://discord.gg/test" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3132/PNG/512/discord_social_network_communication_interaction_message_icon_192260.png" alt="test" height="30" width="30" /></a>
 </p>
 
 ##      
