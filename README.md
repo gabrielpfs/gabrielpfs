@@ -13,10 +13,6 @@
 
 **Programming Languages**
 <div style="display: inline_block"><br>
-  <img align="center" alt="gab-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="gab-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">
   <img align="center" alt="gab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="gab-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="gab-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg">
@@ -30,10 +26,8 @@
 **Data Visualization Tools**
 <div style="display: inline_block"><br>
    <img align="center" alt="gab-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-   <img align="center" alt="gab-HTML" height="30" width="40" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
    <img align="center" alt="gab-HTML" height="30" width="30" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true">
    <img align="center" alt="gab-HTML" height="30" width="40" src="https://www.svgrepo.com/download/354428/tableau-icon.svg">
-   <img align="center" alt="gab-HTML" height="30" width="40" src="https://www.svgrepo.com/show/374022/qlikview.svg">
    <img align="center" alt="gab-HTML" height="30" width="40" src="https://www.svgrepo.com/show/354012/looker-icon.svg">
 </div>
 
@@ -42,15 +36,11 @@
 <div style="display: inline_block"><br>
    <img align="center" alt="gab-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
    <img align="center" alt="gab-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-   <img align="center" alt="gab-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-   <img align="center" alt="gab-HTML" height="30" width="40" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg">
-   <img align="center" alt="gab-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 </div>
 
 ##
 **Big Data**
 <div style="display: inline_block"><br>
-   <img align="center" alt="gab-Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
    <img align="center" alt="gab-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
    <img align="center" alt="gab-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
    <img align="center" alt="gab-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">
@@ -64,14 +54,7 @@
 <p>
   <a href="https://codepen.io/Gabriexjt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="test" height="30" width="40" /></a>
   <a href="https://dev.to/gabrielxjt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="test" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/gabrielxjt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="test" height="30" width="40" /></a>
-  <a href="https://codesandbox.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="test" height="30" width="40" /></a>
   <a href="https://kaggle.com/gabrielpratessantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="test" height="30" width="40" /></a>
-  <a href="https://hashnode.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="test" height="30" width="40" /></a>
-  <a href="https://medium.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="test" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/test" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="test" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="test" height="30" width="40" /></a>
-  <a href="https://discord.gg/test" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3132/PNG/512/discord_social_network_communication_interaction_message_icon_192260.png" alt="test" height="30" width="30" /></a>
 </p>
 
 ##      
