@@ -21,7 +21,6 @@
   <img align="center" alt="gab-HTML" height="30" width="50" src="https://fina2.net/wp-content/uploads/2022/07/2560px-DAX_logo.svg.png">
 </div>
 
-
 #
 **Data Visualization Tools**
 <div style="display: inline_block"><br>
@@ -47,6 +46,7 @@
    <img align="center" alt="gab-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg">
    <img align="center" alt="gab-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
    <img align="center" alt="gab-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+   <img align="center" alt="gab-Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg">
 </div>
 
 #
