@@ -4,10 +4,9 @@
 - 🔭 Atualmente estou trabalhando na **Vinteum**
 - 🌱 Estou estudando sobre **SQL e Python**
 - 👯 Estou engajado em contribuir em projetos de **Ciência de Dados**
-- 📝 Elaboro e comento no **Blog**: https://dev.to/gabrielxjt 
 - 💬 Me pergunte sobre **Tecnologia, Análise e Ciendia de Dados, Desenvolvimento Profissional, Finanças, etc**.
-- 📫 Contate-me em: 
-- 📄 Saiba mais sobre minha **experiências** em: https://www.linkedin.com/in/gabprates/
+- 📫 Contate-me em: contatogabrielsantosgs@gmail.com
+- 📄 Saiba mais sobre minha **experiências** em: https://www.linkedin.com/in/gabrielpfsantos/
 - ⚡ Algumas curiosidades, adoro **leitura, fórmula 1 e filmes**. 
  
 
@@ -18,7 +17,6 @@
   <img align="center" alt="gab-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg">
   <img align="center" alt="gab-HTML" height="25" width="40" src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2016.png">
   <img align="center" alt="gab-HTML" height="30" width="40" src="https://www.svgrepo.com/show/354012/looker-icon.svg">
-  <img align="center" alt="gab-HTML" height="30" width="50" src="https://fina2.net/wp-content/uploads/2022/07/2560px-DAX_logo.svg.png">
 </div>
 
 #
@@ -40,9 +38,7 @@
 ##
 **Big Data**
 <div style="display: inline_block"><br>
-   <img align="center" alt="gab-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
    <img align="center" alt="gab-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-   <img align="center" alt="gab-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">
    <img align="center" alt="gab-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg">
    <img align="center" alt="gab-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
    <img align="center" alt="gab-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
@@ -52,16 +48,12 @@
 #
 <h3>Connections</h3>
 <p>
-  <a href="https://codepen.io/Gabriexjt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="test" height="30" width="40" /></a>
-  <a href="https://dev.to/gabrielxjt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="test" height="30" width="40" /></a>
   <a href="https://kaggle.com/gabrielpratessantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="test" height="30" width="40" /></a>
 </p>
 
 ##      
 **Social Media**
 <div> 
-  <a href="https://instagram.com/gabriel9277" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/gabprates" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielfpsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabprates/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatogabrielsantosgs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielpfsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
